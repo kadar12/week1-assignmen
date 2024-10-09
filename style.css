@@ -1,0 +1,34 @@
+.spacey {
+  padding: 20px;
+  font-family: Verdana;
+  position: absolute;
+  color: white;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+  position: absolute;
+}
+
+.image-one {
+  width: 100%;
+}
+
+.image-two {
+  width: 100%;
+}
+
+.image-three {
+  width: 100%;
+}
+
+.first-info {
+  display: flex;
+}
+
+footer {
+  text-align: center;
+}
